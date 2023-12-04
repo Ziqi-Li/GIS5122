@@ -35,7 +35,6 @@ We will be using Canvas/Github sites for hosting course materials. Students are 
 ## Textbooks
 
 No formal requirements on textbooks, but there are a few of useful references:
-- TBD
 - [Statistical Methods for Geography by Rogerson](https://us.sagepub.com/en-us/nam/statistical-methods-for-geography/book268777)
 - [Geographic Data Science by Rey et al.](https://geographicdata.science/book/intro.html)
 - [GIST Book of Knowledge](https://gistbok.ucgis.org)
