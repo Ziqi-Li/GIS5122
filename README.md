@@ -21,12 +21,16 @@ In this course, you will learn a wide range of spatial statistical models from p
 
 ## Learning Outcomes
 
-- TBA
+- Understand statistical inference in modelling spatial data
+- Explain the principles of machine learning
+- Evaluate asusmptions, advantages and disadvantages among different methods
+- Apply appropraiate statistical/machine learning methods to real-world data
+- Use Python and open-Source packages for spatial data analysis
 
 
 ## Class Resources
 
-We will be using Canvas/Github sites for hosting course materials. Students are expected to check sites regularly for announcements, schedule, lecture slides, materials, grades, assignments, and other postings.
+We will be using Canvas/Github sites for hosting course materials. Students are expected to check sites regularly for announcements, schedule, lecture slides, materials, grades, assignments, and other postings. Students can use their own programming environment/code editor including (Google Colab, Anaconda, Visual Studio Code, etc.)
 
 ## Textbooks
 
@@ -71,7 +75,7 @@ There will be six assignments that will be completed over the duration of this c
 Final projects are individual based. You will be asked to investigate a spatial problem of your choice/interest using appropriate data and methods covered in class. More will be introduced later in the semster.
 
 ### Lateness/make-up policy
-Assignments/project are due at 11:59 pm on the day indicated on Canvas. Late assignments will have a penalty of 20% for each late day. Assignments will not be accepted more than 5 days past the due date. Exception to this is that you have legitimate and/or religeous reasons. Doctor notes are required for extensions due to health-related reasons.
+Assignments/project are due at 11:59 pm on the day indicated on Canvas. Late assignments will have a penalty of 20% for each late day. This will be automatically deducted by Canvas. Assignments will not be accepted more than 5 days past the due date. Exception to this is that you have legitimate and/or religeous reasons. Doctor notes are required for extensions due to health-related reasons.
 
 
 
