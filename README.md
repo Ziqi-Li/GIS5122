@@ -23,9 +23,9 @@ In this course, you will learn a wide range of spatial statistical models from p
 
 - Understand statistical inference in modelling spatial data
 - Explain the principles of machine learning
-- Evaluate asusmptions, advantages and disadvantages among different methods
+- Evaluate asusmptions, advantages and disadvantages among different statistical/machine learning methods
 - Apply appropraiate statistical/machine learning methods to real-world data
-- Use Python and open-Source packages for spatial data analysis
+- Use Python and open-source packages for spatial data analysis
 
 
 ## Class Resources
