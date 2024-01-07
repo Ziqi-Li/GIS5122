@@ -74,11 +74,11 @@ There will be six assignments that will be completed over the duration of this c
 Final projects are individual based. You will be asked to investigate a spatial problem of your choice/interest using appropriate data and methods covered in class. More will be introduced later in the semster.
 
 ### Lateness/make-up policy
-Assignments/project are due at 11:59 pm on the day indicated on Canvas. Late assignments will have a penalty of 20% for each late day. This will be automatically deducted by Canvas. Assignments will not be accepted more than 5 days past the due date. Exception to this is that you have legitimate and/or religeous reasons. Doctor notes are required for extensions due to health-related reasons.
+Assignments/project are due at 11:59 pm on the day indicated on Canvas. Late assignments will have a penalty of 20% for each late day. Late panelty is implemented automatically through Canvas's gradebook.
 
+Assignments will not be accepted more than 5 days past the due date. Exception to this is that you have legitimate and/or religeous reasons. Evidence is required.
 
-
-## Course Topics and Schedule
+## Course Topics
 
 This will subject to change:
 - Statistical inference
