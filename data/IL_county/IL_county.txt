@@ -1,0 +1,286 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator: Illinois State Geological Survey
+      Publication_Date: 1984, 199803, 200306
+      Title: Illinois County Polygons
+      Edition: 2.0
+      Geospatial_Data_Presentation_Form: vector digital data
+      Series_Information:
+        Series_Name: ISGS GIS Database
+        Issue_Identification: GISDB.IL_BNDY_County_Py
+      Publication_Information:
+        Publication_Place: Champaign, Illinois
+        Publisher: Illinois State Geological Survey
+      Online_Linkage: http://www.isgs.illinois.edu/
+      Online_Linkage: http://illinois.edu
+  Description:
+    Abstract:
+      This data set contains Illinois county polygons.  The data were extracted from, and are redundant with, ISGS feature dataset IL_Public_Land_Survey_System.  The data set is maintained as a separate entity for ease of query and display.
+
+      The polygon attributes indicate county name and and FIPS code.
+
+      The nominal scale is 1:62,500.  As of 2003, the data are typically distributed in geographic coordinates (longitude and latitude), decimal degrees, and the North American Datum (NAD) of 1983, and this is the default spatial reference of the ArcSDE feature dataset in which the data are stored.  The data were originally developed, however, in a custom Lambert Conformal Conic projection and were distributed in that coordinate system for several years.
+
+      The data were digitized in the late 1960s and in 1984-85 from 7.5- and 15-minute USGS topographic quadrangles.  Errors in the location of a given feature are dependent on the accuracy of the original maps and on the accuracy of digitizing.  Estimates are that features have an average locational error of at least plus/minus 100 feet.
+    Purpose: These data are appropriate for use in local and regional thematic analysis.  The data are not appropriate as a geodetic, legal or engineering base.  The data set was originally created for the purpose of producing maps of well locations in Illinois for geologic research by the ISGS and others.  It serves as an important base cartographic element for many types of maps and has been widely distributed and used outside the ISGS.  The data set was not and is not intended as a substitute for surveyed locations, such as can be determined by a registered Public Land Surveyor.  Although useful in a GIS as a reference base layer for maps, the data set has no legal basis in the definition of boundaries or property lines.
+    Supplemental_Information:
+      The data were originally developed as a part of the ILLIMAP System and were created in the late 1960s and early 1970s for the purpose of producing maps of well locations in Illinois for geologic research by the ISGS and others.  It was one of the first efforts in the nation to digitally capture public land survey boundaries. The principal  originators of the first version were geologists at the ISGS: Dave Swann, Paul DuMontelle, Dick Mast, and Lindell Van Dyke.  The data were initially digitized from 7.5- and 15-minute USGS topographic maps, and this work comprises approximately two-thirds of the present data set.  The accuracy was stated as follows:  "For the townships digitized from 7.5-minute quadrangles, 95.2 percent of the ILLIMAP distances are within 100 feet of the recorded plat distances, and all are within 180 feet.  In townships digitized from 15-minute quadrangles, 82.5 percent of the ILLIMAP distances are within 100 feet of the plat distances, and 98.7 percent are within 200 feet."  (ISGS Circular 451, p. 13)
+
+      For more information on the origin of the data set, refer to the metadata for the IL_Public_Land_Survey_System feature dataset.  Also refer to ISGS Circular 451 (ILLIMAP - A Computer-Based Mapping System for Illinois, Swann, DuMontelle, Mast & Van Dyke, 1970).  That publication discusses the original digitizing work, coordinate conversions, and the accuracy of the results.
+
+      The database was maintained by the ISGS Computer Services Unit under Van Dyke's direction until 1985 at which time the data were converted to an Arc/Info coverage.  The conversion was accomplished by Environmental Systems Research Institute (ESRI) of Redlands, California, working under contract with the ISGS via the Illinois Department of Energy and Natural Resources and its Lands Unsuitable for Mining Program.  The remaining one third of the state was digitized from 7.5-minute quadrangles at this time (1984-85.)
+
+      In 2003 the data set was transitioned from the ESRI ArcInfo coverage data model to the ESRI ArcSDE enterprise geodatabase data model.  The data are stored in an Oracle relational database management system (RDBMS) and maintained using ArcGIS software.
+
+      Recent updates to the data:
+
+      In March, 1998 the data set as it stood was designated Edition 1.0 for metadata and version management purposes.
+
+      Edition 1.0 of these data were reviewed for internal logical consistency in March, 1998.  As a result, several unneeded .AAT and .PAT items were dropped, tics were replaced, three dangling arcs were corrected and COVER-ID values were recalculated to be unique.  See logical consistency report and process steps for March, 1998 for more details.  The updated data set was designated edition 1.1.
+
+      In June, 2003 the data set was transitioned to storage in an Oracle RDBMS using the ArcSDE geodatabase model.  At that time this metadata document was significantly updated.  The result (and most current edition) is designated Edition 2.0.
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Range_of_Dates/Times:
+        Beginning_Date: circa 1921
+        Ending_Date: 1979
+    Currentness_Reference: Dates of source maps.
+  Status:
+    Progress: Complete
+    Maintenance_and_Update_Frequency: None planned
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: -91.4244
+      East_Bounding_Coordinate: -87.3840
+      North_Bounding_Coordinate: 42.4951
+      South_Bounding_Coordinate: 36.9540
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: none
+      Theme_Keyword: illimap
+      Theme_Keyword: base map
+      Theme_Keyword: county boundary
+    Place:
+      Place_Keyword_Thesaurus: none
+      Place_Keyword: Illinois
+  Access_Constraints:
+    ISGS information must be obtained directly from the ISGS or from an authorized distributor.  Be aware that ISGS information obtained from an unauthorized third party may have been altered subsequent to original distribution, or may no longer be current.
+
+    Any access to these data, Web sites, computer systems, electronic services, and electronic networks is governed by University and campus policies, in particular, but not limited to, the Policy on Appropriate Use of Computers and Network Systems at the University of Illinois at Urbana-Champaign, the ISGS Terms of Use document available at the ISGS Web site, and the University of Illinois Web Privacy Notice.
+
+    Links to these are provided in the Cross References section.
+  Use_Constraints:
+    ISGS information is the property of and copyrighted by the Board of Trustees of the University of Illinois with all rights reserved.  University copyright policy is stated in the General Rules Concerning University Organization and Procedure, Article III, Section 4.  A link is provided in the Cross References section.
+
+    Individuals or entities may make fair use of copyrighted ISGS material, such as reproducing a single figure or table, or using a brief text quotation, without obtaining formal permission, but in all cases the Illinois State Geological Survey must be credited as the source of the material. To reproduce ISGS information beyond the fair use standard, permission must be obtained from the ISGS Information Office, 615 East Peabody Drive, Champaign, Illinois 61820, 217-333-4747, isgs@isgs.illinois.edu. License fees and a license agreement may be required, depending on the proposed usage.
+
+    Any use of these data is governed by University and campus policies, in particular, but not limited to, the Policy on Appropriate Use of Computers and Network Systems at the University of Illinois at Urbana-Champaign, the ISGS Terms of Use document available at the ISGS Web site, and the University of Illinois Web Privacy Notice.  Links to these are provided in the Cross References section.
+
+    Map information is to be used at a scientifically and cartographically appropriate scale, that is, at a scale no greater than indicated on the map or as described in the documentation of the map or map data.  Map information is not appropriate for, and is not to be used as, a geodetic, legal, or engineering base. Map information has no legal basis in the definition of boundaries or property lines and is not intended as a substitute for surveyed locations such as can be determined by a registered Public Land Surveyor.
+
+    The data do not replace the need for detailed site-specific studies.
+  Point_of_Contact:
+    Contact_Information:
+      Contact_Instructions: Please refer to the Distribution Information section.
+  Native_Data_Set_Environment: ArcSDE 9.1 on Oracle 10g
+  Cross_Reference:
+    Citation_Information:
+      Title: ISGS Terms of Use
+      Online_Linkage: http://www.isgs.illinois.edu
+  Cross_Reference:
+    Citation_Information:
+      Title: University of Illinois Web Privacy Notice
+      Online_Linkage: http://www.vpaa.uillinois.edu/policies/web_privacy.cfm
+  Cross_Reference:
+    Citation_Information:
+      Title: University Copyright Policy (stated in the General Rules Concerning University Organization and Procedure, Article III, Section 4)
+      Online_Linkage: http://www.uillinois.edu/trustees/rules.cfm#sec34
+  Cross_Reference:
+    Citation_Information:
+      Title: Policy on Appropriate Use of Computers and Network Systems at the University of Illinois at Urbana-Champaign
+      Online_Linkage: http://www.fs.uiuc.edu/cam/CAM/viii/viii-1.1.html
+Data_Quality_Information:
+  Attribute_Accuracy:
+    Attribute_Accuracy_Report:
+      The attributes of the ArcInfo coverage from which these data were derived were reviewed in 1990 using a variety of visual techniques (polygon shading, line shading and line thicknesses tied to attribute values) and GIS processing techniques (checking for logical consistency).  Arc attribute values for the items STATELINE and COUNTLINE were verified by generating plots with arcs color-coded by designation.  These were visually checked for errors.  Polygon attribute values were verified in a similar manner.
+
+      There is no quantitative assessment of attribute accuracy available, however, this coverage has been used extensively by ISGS and DNR personnel since 1984, and it can be assumed most attribute errors have been detected and corrected.  There are no know arc or polygon attribute values outside the appropriate value domains.
+  Logical_Consistency_Report:
+    For a description of the logical consistency analysis performed on the original ILLIMAP data in the late 1960s and early 1970s, see the section entitled Accurracy of ILLIMAP on pages 12-15 of ISGS Circular 451.
+
+    A logical consistency review was performed in March, 1998.  At that time the data were maintained in ArcInfo coverage format.
+
+    The following checks were made:
+
+    The data set was DESCRIBED and coverage files listed to determine the feature types present.  In this data set, the following feature types were found and checked:  polygons, arcs, labels, nodes, and annotation.  The presence of spatial indices was also checked.
+
+    For PAT and AAT files, each item was checked for the following:  domain of allowable values, adherence of values to the domain, definition of attribute items, requirement of all unique values for an item, logic of items redefined over other items, and length of item name as regards conversion to shapefile format.
+
+    The topology status of the data set was checked, as were LABELERRORS, NODEERRORS (if appropriate), and the PROJECTION definition.
+
+    The presence of a BND file was verified.
+
+    The presence and location of TICS were checked.
+
+    Polygon and chain-node topology present.  There are no dangling arcs.  There is one polygon label per polygon, except for universe polygon.  Boundary values appropriate for map projection and map units.  "Fuzzy" tolerance is suitable for nominal scale. Several unneeded .AAT and .PAT items were dropped, tics were replaced, three dangling arcs were corrected, and COVER-ID values were recalculated to be unique.  See process steps for March, 1998.  There are no attribute values outside the appropriate domains.
+  Completeness_Report: In 1995, the state boundary along the Ohio River was officially changed, but these changes have not been incorporated.  Also, this feature class does not include the portion of the state boundary that extends into Lake Michigan.  Rather, the lake shore is depicted as the state boundary.  Some data were digitized from USGS 7.5-minute topographic quadrangles, and some from 15-minute quadrangles.  As a result, scale varies within the coverage.
+  Positional_Accuracy:
+    Horizontal_Positional_Accuracy:
+      Horizontal_Positional_Accuracy_Report:
+        The data were initially digitized in the late 1960s and early 1970s from 7.5- and 15-minute USGS topographic maps, and that work comprises approximately two-thirds of the present data set.  The accuracy was stated as follows:  "For the townships digitized from 7.5-minute quadrangles, 95.2 percent of the ILLIMAP distances are within 100 feet of the recorded plat distances, and all are within 180 feet.  In townships digitized from 15-minute quadrangles, 82.5 percent of the ILLIMAP distances are within 100 feet of the plat distances, and 98.7 percent are within 200 feet."  For more information on the original accuracy of the data set, see ISGS Circular 451 (ILLIMAP - A Computer-Based Mapping System for Illinois, Swann, DuMontelle, Mast & Van Dyke, 1970).
+
+        In 1985 the data were converted to an Arc/Info coverage.  The conversion was accomplished by Environmental Systems Research Institute (ESRI) of Redlands, California, working under contract with the ISGS via the Illinois Department of Energy and Natural Resources and its Lands Unsuitable for Mining Program.  The remaining one third of the state was digitized from 7.5-minute quadrangles at this time (1984-85.)  Details of the digitizing process are unavailable.  It is reasonable to assume the positional accuracy was improved for newly digitized areas.   However, it is also likely there was some degradation to the positional accuracy of the previously existing data due to automated coverage processing, for example, the use of the ArcEdit CLEAN command.
+
+        Subsequently, the horizontal positional accuracy was spot verified by manual overlay of source and hard-copy plots.  Arcs within line-width of source maps were deemed acceptable.  The size of the sample set is unknown.  Errors in the location of a given feature are dependent on the accuracy of the original maps and on the accuracy of digitizing.  Current estimates are that features in the data set have an average locational error of at least plus/minus 100 feet.
+
+        The source maps are subject to USGS mapping accuracy standards.  For more information on the source maps used, refer to the Lineage section.
+  Lineage:
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: United States Geological Survey
+          Publication_Date: varies from circa 1921 to 1979
+          Title: USGS 7.5- and 15-minute topographic quadrangles
+          Series_Information:
+            Series_Name: Topographic quadrangles
+            Issue_Identification: various
+      Source_Scale_Denominator: 24000 and 62500
+      Type_of_Source_Media: paper
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Range_of_Dates/Times:
+            Beginning_Date: circa 1921
+            Ending_Date: 1979
+        Source_Currentness_Reference: publication date
+      Source_Citation_Abbreviation: none
+      Source_Contribution: Lines depicting county boundaries in the state of Illinois.
+    Process_Step:
+      Process_Description:
+        For a complete history of the origin of this data set, refer to the metadata for the IL_Public_Land_Survey_System feature dataset.
+
+        An internal logical consistency check was performed in March, 1998.  Refer to the Logical Consistency report.  As a result, the following changes/updates were made to the data:
+
+        TICS - The data set had eight tics along the northern border of the state.  For better tic distribution, these were replaced with ten tics from quad100 from the ISGS GISDB archive, evenly distributed around the state.  However, users needing registration tics for use with these data (or a subset of these data) should expect to create a task-specific tic set, usually based on section corners.
+
+        REMOVAL OF ITEMS - The following empty .AAT items were dropped: STATE2C.OLD#, STATE2C.OLD-ID, ORIG-ID, SYMBOL, SYMB.
+
+        UNIQUE COVER-ID VALUES - COVER-ID values in the .AAT and .PAT were calculated to equal (COVER# - 1) in order to make them unique.
+
+        At this time it was decided to maintain a record of GIS versions of this data set.  The data set prior to review was (arbitrarily) designated Edition 1.0.  Upon completion of the review, the data set was designated as Edition 1.1.
+
+        These dangles were corrected by removing 2 spurious arcs:
+
+        > Dangling Node        29 at (  3414662.00000,  3153298.00000)
+        > Dangling Node        30 at (  3414678.50000,  3153298.50000)
+        > Dangling Node       107 at (  2862288.00000,  2578612.00000)
+      Process_Date: 199803
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+    Process_Step:
+      Process_Description:
+        The coverage was imported into an ArcSDE enterprise geodatabase feature dataset for storage.  The resulting SDE edition is designated Edition 2.0.  The jump from edition 1.2 to 2.0 reflects the significant change in fundamental data storage model from coverage to ArcSDE enterprise geodatabase.  It also reflects the change in default spatial reference from the customary ISGS Lambert Conformal Conic projection (NAD27) to a geographic coordinate system (longitude, latitude) in decimal degrees (NAD83).  The SDE name of the data set is GISDB.IL_BNDY_State_and_County_Boundaries.
+
+        The various coverage feature classes were imported using ArcCatalog 8.2.
+
+        The label point feature classes were not imported.
+
+        Also at this time, this metadata file was considerably rewritten and updated.
+      Process_Date: 200304
+Spatial_Data_Organization_Information:
+  Direct_Spatial_Reference_Method: Vector
+  Point_and_Vector_Object_Information:
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: G-polygon
+      Point_and_Vector_Object_Count: 102
+Spatial_Reference_Information:
+  Horizontal_Coordinate_System_Definition:
+    Geographic:
+      Latitude_Resolution: 0.000001
+      Longitude_Resolution: 0.000001
+      Geographic_Coordinate_Units: Decimal degrees
+    Geodetic_Model:
+      Horizontal_Datum_Name: North American Datum of 1983
+      Ellipsoid_Name: Geodetic Reference System 80
+      Semi-major_Axis: 6378137.000000
+      Denominator_of_Flattening_Ratio: 298.257222
+  Vertical_Coordinate_System_Definition:
+    Altitude_System_Definition:
+Entity_and_Attribute_Information:
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: IL_BNDY_County_Py
+    Attribute:
+      Attribute_Label: CO_FIPS
+      Attribute_Definition: The FIPS number
+      Attribute_Definition_Source: Federal Infomation Processing Standard
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 1
+          Range_Domain_Maximum: 203
+          Attribute_Units_of_Measure: odd integers only
+    Attribute:
+      Attribute_Label: SHAPE
+      Attribute_Definition: Feature geometry.
+      Attribute_Definition_Source: ESRI
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Coordinates defining the features.
+    Attribute:
+      Attribute_Label: FID
+      Attribute_Definition: Internal feature number.
+      Attribute_Definition_Source: ESRI
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Sequential unique whole numbers that are automatically generated.
+    Attribute:
+      Attribute_Label: Shape
+      Attribute_Definition: Feature geometry.
+      Attribute_Definition_Source: ESRI
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Coordinates defining the features.
+    Attribute:
+      Attribute_Label: COUNTY_NAM
+      Attribute_Definition: The county name
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: Information Office, Illinois State Geological Survey (ISGS), a division of the Institute of Natural Resource Sustainability (INRS) of the University of Illinois
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address: 615 East Peabody Drive
+        City: Champaign
+        State_or_Province: Illinois
+        Postal_Code: 61820
+        Country: USA
+      Contact_Voice_Telephone: 217-333-4747
+      Contact_TDD/TTY_Telephone: 217-785-0211
+      Contact_Electronic_Mail_Address: isgs@isgs.illinois.edu
+      Hours_of_Service: 8:00 a.m. - 4:30 p.m., Monday-Friday, U.S. Central Time
+  Distribution_Liability:
+    Refer to the Legal Notices of Terms and Conditions of the University of Illinois Web Privacy Policy (there is a link in the Cross References section) for policy statements regarding the following:
+
+    Disclaimer of Liability
+    Disclaimer of Warranties and Accuracy of Data
+    Disclaimer of Endorsement
+    Disclaimer for External Links
+    Disclaimer of Duty to Continue Provision of Data
+    Security
+    Choice of Law
+
+    By obtaining these data you agree to the provisions of the University of Illinois Web Privacy Policy, regardless of the manner in which the information was obtained.
+  Technical_Prerequisites: The data are intended for use with GIS software. The ISGS uses ESRI ArcGIS software, however,  ESRI formats can be imported into many different GIS software packages. It is expected that customers who obtain these data have the technical expertise to use GIS software. The ISGS does not provide software support of any kind.
+Metadata_Reference_Information:
+  Metadata_Date: 20090224
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+      Contact_Instructions: Please refer to the Distribution Information section.
+  Metadata_Standard_Name: FGDC Content Standards for Digital Geospatial Metadata
+  Metadata_Standard_Version: FGDC-STD-001-1998
+  Metadata_Time_Convention: local time
+  Metadata_Access_Constraints: The access constraints as stated for the data apply also to the metadata.  Refer to the Access Constraints section of the Identification Information section.
+  Metadata_Use_Constraints: The use constraints as stated for the data apply also to the metadata.  Refer to the Use Constraints section of the Identification Information section.
+  Metadata_Extensions:
+    Online_Linkage: http://www.esri.com/metadata/esriprof80.html
+    Profile_Name: ESRI Metadata Profile
