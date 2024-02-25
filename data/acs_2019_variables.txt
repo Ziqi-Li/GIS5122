@@ -1,0 +1,18 @@
+Columns in acs_2019.csv.
+
+county_id: unique county ID (FIPS/GEOID)
+total_pop: total population  
+sex_ratio: the ratio of males/females * 100
+pct_black: Percentage of Black
+pct_hisp: % of Hispanic
+pct_bach: % of Bachelor’s degree or higher
+median_income: Median household income
+pct_65_over: % of people age 65 or older
+pct_age_18_29: % of people age between 18-29
+gini: GINI coefficient
+pct_manuf: % of people work in the manufacturing sector
+ln_pop_den: Log of the population density
+pct_fb: % of people are foreign born
+pct_uninsured: % of people without health insurance.
+
+This dataset is retrieved from American Community Survey 2015-2019 5-year estimate.
