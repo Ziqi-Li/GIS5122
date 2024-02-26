@@ -1,0 +1,52 @@
+,state_name,state_fips,state_abbr
+0,Alabama,1,AL
+1,Alaska,2,AK
+2,Arizona,4,AZ
+3,Arkansas,5,AR
+4,California,6,CA
+5,Colorado,8,CO
+6,Connecticut,9,CT
+7,Delaware,10,DE
+8,District of Columbia,11,DC
+9,Florida,12,FL
+10,Georgia,13,GA
+11,Hawaii,15,HI
+12,Idaho,16,ID
+13,Illinois,17,IL
+14,Indiana,18,IN
+15,Iowa,19,IA
+16,Kansas,20,KS
+17,Kentucky,21,KY
+18,Louisiana,22,LA
+19,Maine,23,ME
+20,Maryland,24,MD
+21,Massachusetts,25,MA
+22,Michigan,26,MI
+23,Minnesota,27,MN
+24,Mississippi,28,MS
+25,Missouri,29,MO
+26,Montana,30,MT
+27,Nebraska,31,NE
+28,Nevada,32,NV
+29,New Hampshire,33,NH
+30,New Jersey,34,NJ
+31,New Mexico,35,NM
+32,New York,36,NY
+33,North Carolina,37,NC
+34,North Dakota,38,ND
+35,Ohio,39,OH
+36,Oklahoma,40,OK
+37,Oregon,41,OR
+38,Pennsylvania,42,PA
+39,Rhode Island,44,RI
+40,South Carolina,45,SC
+41,South Dakota,46,SD
+42,Tennessee,47,TN
+43,Texas,48,TX
+44,Utah,49,UT
+45,Vermont,50,VT
+46,Virginia,51,VA
+47,Washington,53,WA
+48,West Virginia,54,WV
+49,Wisconsin,55,WI
+50,Wyoming,56,WY
