@@ -78,17 +78,20 @@ Assignments/project are due at 11:59 pm on the day indicated on Canvas. Late ass
 
 Assignments will not be accepted more than 5 days past the due date. Exception to this is that you have legitimate and/or religeous reasons. Evidence is required.
 
-## Course Topics
+## Course Scedule
 
 This will subject to change:
-- Statistical inference
-- Point pattern analysis
-- Linear regression recap
-- Spatial regression
-- Multi-level models
-- Non-parametric models
-- Machine learning
-- Interpretable machine learning
+- W1 - W3 Statistical inference
+- W4 - W5 Point pattern analysis
+- W5 - W6 Linear regression recap
+- W7 Spatial regression/Regimes
+- W8 Geographically Weighted Regression/MGWR
+- W9 Spring Break
+- W10 Multi-level models
+- W11 Non-linear models
+- W12 - W14 Machine learning
+- W15 AAG
+- W16 Final Presentation
 
 ## Student Responsibilities & Expectations
 
