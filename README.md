@@ -1,8 +1,8 @@
 # GIS5122 Applied Spatial Statistics
 
-Spring 2024
+Spring 2025
 
-Class meets: 8:00 - 9:15am T/TR @ BEL 320A
+Class meets: 9:30 - 10:45am T/TR @ BEL 320A
 
 ## About me
 
@@ -11,19 +11,20 @@ Assistant Professor in Quantitative Geography \
 Office: Bellamy 314 \
 Email: ziqi.li@fsu.edu \
 Website: https://sites.google.com/view/ziqi-li/home \
-Office Hours: 2:00PM – 3:00PM, every Wednesday in-person, or by appointment.
+Office Hours: 2:30PM – 3:30PM, every Tuesday in my office.
 
 
 ## Overview
 
-In this course, you will learn a wide range of spatial statistical models from parametric to non-parametric, from global to local, for inferential and predictive tasks. You are expected to learn the theories and principles behind these models through simulation experiments and empirical examples. You will practice statistical exercises using Python and open-source packages.
+In this course, you will learn a wide range of spatial statistical and machine learning methods from parametric to non-parametric, from global to local, for inferential and predictive tasks. The list of models covered includes Linear Regression, Spatial Regression, GWR/MGWR, Multi-level Models, Generalized Additive Models, Decision Trees based models, and Neural Network based models. You are expected to learn the theories and principles behind these models through statistical simulation experiments and empirical examples. You will practice exercises using Python and open-source packages.
 
 
 ## Learning Outcomes
 
 - Understand statistical inference in modelling spatial data
+- Learn to fit/train statistical and machine learning models, evaluate model outputs, and generate proper interpretations
 - Explain the principles of machine learning
-- Evaluate asusmptions, advantages and disadvantages among different statistical/machine learning methods
+- Evaluate assumptions, advantages and disadvantages among different statistical/machine learning methods
 - Apply appropraiate statistical/machine learning methods to real-world data
 - Use Python and open-source packages for spatial data analysis
 
@@ -67,7 +68,7 @@ and this scheme:
 | B-               | 80 - 84    | F                | <60        |
 
 ### Assignments
-There will be six assignments that will be completed over the duration of this course. Each assignment will be introduced after the lecture is completed. Students will have some time in class to start the assignment and ask any questions, and will be required to work on them after class.
+There will be six assignments that will be completed over the duration of this course. 
 
 ### Final Project
 
@@ -81,17 +82,14 @@ Assignments will not be accepted more than 5 days past the due date. Exception t
 ## Course Scedule
 
 This will subject to change:
-- W1 - W3 Statistical inference
-- W4 - W5 Point pattern analysis
-- W5 - W6 Linear regression recap
-- W7 Spatial regression/Regimes
-- W8 Geographically Weighted Regression/MGWR
-- W9 Spring Break
-- W10 Multi-level models
-- W11 Non-linear models
-- W12 - W14 Machine learning
-- W15 AAG
-- W16 Final Presentation
+- Statistical inference
+- Linear regression recap
+- Spatial regression/Regimes
+- Geographically Weighted Regression/MGWR
+- Multi-level models
+- Non-linear models
+- Machine learning
+- Interpretable machine learning
 
 ## Student Responsibilities & Expectations
 
